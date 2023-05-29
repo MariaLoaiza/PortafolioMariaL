@@ -1,0 +1,17 @@
+body{ 
+    background-color: lavender;
+color: indigo;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+ font-style: italic;
+ text-align: center;
+}
+h3{
+    text-align: center;
+    color: black;
+}
+h4{
+    color: black;
+}
+ol{color: black;}
